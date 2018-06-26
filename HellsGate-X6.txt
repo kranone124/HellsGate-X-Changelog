@@ -52,3 +52,5 @@ Project name: HellsGate-X6
   * Update QNS System (LuizPauloDamaceno) [b1d2a0ebeb77]
   * drivers: power: Add Qnovo Interface for QNS (balika011) [ebd182e21628]
   * Play with GPU throttling a bit (zeroblade1984) [8c058279cca6]
+  * revert drivers Make Hellsgate More Smaller 
+  *revert the most off x5 changes we dont need this 
